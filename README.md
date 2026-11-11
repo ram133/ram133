@@ -6,6 +6,23 @@ Guam, USA
 
 ---
 
+## Contact & Payment
+
+**Get in touch or support the work:**
+
+| Method | Details |
+|--------|---------|
+| **Phone / Signal** | +1 (671) 685-9138 · +1 (671) 456-6963 |
+| **Email** | 3659745@gmail.com · crh2509@icloud.com · crh2123@icloud.com |
+| **Website** | [ray.services](https://ray.services) |
+| **PayPal** | crh2123@icloud.com |
+| **Cash App / Stripe** | Available via [ray.services](https://ray.services) |
+| **Live 1-on-1** | $1 / minute — AI automation, agents, prompt engineering |
+
+All payments go directly to Ray.
+
+---
+
 ## Flagship products
 
 | Product | Description | Link |
