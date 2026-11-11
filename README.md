@@ -21,12 +21,15 @@ Guam, USA
 
 All payments go directly to Ray.
 
+**Services hub:** [github.com/ram133/services](https://github.com/ram133/services)
+
 ---
 
 ## Flagship products
 
 | Product | Description | Link |
 |---------|-------------|------|
+| **Services** | Live AI automation, agents & prompt engineering | [Repo](https://github.com/ram133/services) |
 | **GROK** | Personal AI Agent Toolkit | [Live](https://ram133.github.io/GROK/) |
 | **NEWS** | Free daily AI newsletter (6 AM ChST auto) | [Live](https://ram133.github.io/NEWS/) |
 | **CrossPost** | Post once, publish everywhere | [Live](https://ram133.github.io/cross-post-automation/) |
