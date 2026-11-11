@@ -6,9 +6,14 @@ Guam, USA
 
 ---
 
-## Contact & Payment
+## Start Here (Everything Free)
 
-**Get in touch or support the work:**
+**→ [start-here](https://github.com/ram133/start-here)**  
+Free AI newsletter, free tools, free automation patterns, free starters. Zero cost entry point into the whole ecosystem.
+
+---
+
+## Contact & Payment
 
 | Method | Details |
 |--------|---------|
@@ -16,12 +21,11 @@ Guam, USA
 | **Email** | 3659745@gmail.com · crh2509@icloud.com · crh2123@icloud.com |
 | **Website** | [ray.services](https://ray.services) |
 | **PayPal** | crh2123@icloud.com |
-| **Cash App / Stripe** | Available via [ray.services](https://ray.services) |
 | **Live 1-on-1** | $1 / minute — AI automation, agents, prompt engineering |
 
 All payments go directly to Ray.
 
-**Services hub:** [github.com/ram133/services](https://github.com/ram133/services)
+**Services:** [github.com/ram133/services](https://github.com/ram133/services)
 
 ---
 
@@ -29,6 +33,7 @@ All payments go directly to Ray.
 
 | Product | Description | Link |
 |---------|-------------|------|
+| **Start Here** | Free resources & growth funnel | [Repo](https://github.com/ram133/start-here) |
 | **Services** | Live AI automation, agents & prompt engineering | [Repo](https://github.com/ram133/services) |
 | **Automation** | Reusable GitHub Actions & self-running systems | [Repo](https://github.com/ram133/automation) |
 | **Product Kit** | Starter kit for monetization-ready digital products | [Repo](https://github.com/ram133/product-kit) |
@@ -65,5 +70,6 @@ All payments go directly to Ray.
 - Clear commercial path (open source → paid)
 - Built in public with **Grok** (xAI)
 - No vaporware — every product has a working landing page and purpose
+- **All infrastructure used is free** (GitHub, GitHub Pages, GitHub Actions)
 
 **Star the repos you care about.** Shipping continuously.
