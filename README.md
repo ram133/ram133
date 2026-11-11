@@ -30,6 +30,8 @@ All payments go directly to Ray.
 | Product | Description | Link |
 |---------|-------------|------|
 | **Services** | Live AI automation, agents & prompt engineering | [Repo](https://github.com/ram133/services) |
+| **Automation** | Reusable GitHub Actions & self-running systems | [Repo](https://github.com/ram133/automation) |
+| **Product Kit** | Starter kit for monetization-ready digital products | [Repo](https://github.com/ram133/product-kit) |
 | **GROK** | Personal AI Agent Toolkit | [Live](https://ram133.github.io/GROK/) |
 | **NEWS** | Free daily AI newsletter (6 AM ChST auto) | [Live](https://ram133.github.io/NEWS/) |
 | **CrossPost** | Post once, publish everywhere | [Live](https://ram133.github.io/cross-post-automation/) |
